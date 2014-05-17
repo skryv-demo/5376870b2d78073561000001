@@ -45,7 +45,8 @@
                 "selectedChoices": {}
             },
             "puberteitprepuberteit": {},
-            "insulineschema": {}
+            "insulineschema": {},
+            "datum_van_de_meest_recente_consultatie": "2012-11-05T23:00:00.000Z"
         },
         "metingen": {
             "lengte": {},
