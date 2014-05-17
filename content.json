@@ -44,15 +44,24 @@
             "taalproblemen": {
                 "selectedChoices": {}
             },
-            "puberteitprepuberteit": {},
-            "insulineschema": {},
-            "datum_van_de_meest_recente_consultatie": "2012-11-05T23:00:00.000Z"
+            "puberteitprepuberteit": {
+                "selectedChoice": "Puberteit"
+            },
+            "insulineschema": {
+                "selectedChoice": "Standaard mengsels toegediend 's morgens en 's avonds met occasioneel een extra toediening van snelle/ultrasnelle insuline"
+            },
+            "datum_van_de_meest_recente_consultatie": "2012-11-05T23:00:00.000Z",
+            "de_pati‘nt_was_gedurende_het_ganse_kalenderjaar_in_behandeling_bij_dit_centrum": false
         },
         "metingen": {
             "lengte": {},
             "gewicht": {},
-            "systolische_bloeddruk": {},
-            "diastolische_bloeddruk": {}
+            "systolische_bloeddruk": {
+                "systolische_bloeddruk_mmhg": 200
+            },
+            "diastolische_bloeddruk": {
+                "diastolische_bloeddruk_mmhg": 180
+            }
         },
         "screenings": {
             "coeliakie": {},
