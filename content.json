@@ -1,1 +1,26 @@
-{}
+{
+    "patientgegevens": {
+        "geslacht": {
+            "selectedChoice": "Vrouw"
+        },
+        "etniciteit_vader": {},
+        "etniciteit_moeder": {},
+        "creatiedatum_van_klinische_file": "2014-04-15T22:00:00.000Z",
+        "pati‘nt_niss": 12342345,
+        "jaar_van_datacollectie": 2013,
+        "naam": "Landuyt",
+        "voornaam": "Maarten"
+    },
+    "datacollectie": {
+        "puberteitprepuberteit": {},
+        "insulineschema": {},
+        "lengte": {},
+        "gewicht": {},
+        "systolische_bloeddruk": {},
+        "diastolische_bloeddruk": {},
+        "coeliakie": {},
+        "schildklierimmuniteit": {},
+        "retinopathie": {},
+        "nefropathie": {}
+    }
+}
