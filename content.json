@@ -14,7 +14,7 @@
         "jaar_van_datacollectie": 2012,
         "naam": "Landuyt",
         "voornaam": "Maarten",
-        "geboortemaand": "2014-05-07T22:00:00.000Z",
+        "geboortemaand": 10,
         "geboortejaar": 2012,
         "overleden": true,
         "datum_van_de_eerste_insulinetoediening": 2012
@@ -38,7 +38,7 @@
         "schildklierimmuniteit": {},
         "retinopathie": {},
         "nefropathie": {},
-        "datum_van_de_meest_recente_consultatie": "2012-11-13T23:00:00.000Z",
-        "de_pati‘nt_was_gedurende_het_ganse_kalenderjaar_in_behandeling_bij_dit_centrum": true
+        "datum_van_de_meest_recente_consultatie": "2012-10-27T22:00:00.000Z",
+        "de_pati‘nt_was_gedurende_het_ganse_kalenderjaar_in_behandeling_bij_dit_centrum": false
     }
 }
