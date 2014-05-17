@@ -3,24 +3,42 @@
         "geslacht": {
             "selectedChoice": "Vrouw"
         },
-        "etniciteit_vader": {},
-        "etniciteit_moeder": {},
+        "etniciteit_vader": {
+            "selectedChoice": "Kaukasisch"
+        },
+        "etniciteit_moeder": {
+            "selectedChoice": "Andere"
+        },
         "creatiedatum_van_klinische_file": "2014-04-15T22:00:00.000Z",
         "pati‘nt_niss": 12342345,
-        "jaar_van_datacollectie": 2013,
+        "jaar_van_datacollectie": 2012,
         "naam": "Landuyt",
-        "voornaam": "Maarten"
+        "voornaam": "Maarten",
+        "geboortemaand": "2014-05-07T22:00:00.000Z",
+        "geboortejaar": 2012,
+        "overleden": true,
+        "datum_van_de_eerste_insulinetoediening": 2012
     },
     "datacollectie": {
-        "puberteitprepuberteit": {},
-        "insulineschema": {},
+        "puberteitprepuberteit": {
+            "selectedChoice": "Prepuberteit"
+        },
+        "insulineschema": {
+            "selectedChoice": "Individueel samengestelde mengsels toegediend 's morgens en 's avonds met een systematische toediening van een snelle/ultrasnelle insuline (d.w.z. elke dag)"
+        },
         "lengte": {},
         "gewicht": {},
-        "systolische_bloeddruk": {},
-        "diastolische_bloeddruk": {},
+        "systolische_bloeddruk": {
+            "systolische_bloeddruk_mmhg": 249
+        },
+        "diastolische_bloeddruk": {
+            "diastolische_bloeddruk_mmhg": 248
+        },
         "coeliakie": {},
         "schildklierimmuniteit": {},
         "retinopathie": {},
-        "nefropathie": {}
+        "nefropathie": {},
+        "datum_van_de_meest_recente_consultatie": "2012-11-13T23:00:00.000Z",
+        "de_pati‘nt_was_gedurende_het_ganse_kalenderjaar_in_behandeling_bij_dit_centrum": true
     }
 }
